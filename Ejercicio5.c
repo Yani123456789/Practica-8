@@ -1,3 +1,5 @@
+realPromedio += realCalif es lo mismo que realPromedio+realCalif
+
 #include <stdio.h>
 int main ()
 {
